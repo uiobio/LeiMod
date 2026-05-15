@@ -1,0 +1,9 @@
+{
+	"id": "LeiMod",
+	"name": "Lei's Balatro Mod",
+	"author": ["uiobio"],
+	"description": "A simple Balatro mod for adding fun things I would like to see in game.",
+	"prefix": "lei",
+	"main_file": "main.lua",
+	"version": "0.0.1"
+}
